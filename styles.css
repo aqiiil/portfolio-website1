@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     height: auto;
+
 }
 
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
     background: linear-gradient(to bottom, #4760de 0%, white 100%);
     height: 100%;
     justify-content: center;
