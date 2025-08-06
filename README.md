@@ -17,8 +17,6 @@ This is a simple personal portfolio website created using HTML and CSS. It showc
 
 - **Home** – Welcome message or brief introduction
 - **About** – Short personal bio
-- **Projects** – List or gallery of selected projects
-- **Skills** – Overview of technical or soft skills
 - **Contact** – Basic contact information or links
 
 ## How to Use
