@@ -19,11 +19,4 @@ This is a simple personal portfolio website created using HTML and CSS. It showc
 - **About** – Short personal bio
 - **Contact** – Basic contact information or links
 
-## How to Use
 
-1. Clone or download this repository.
-2. Open the `index.html` file in your web browser.
-3. Customize the content as needed (text, images, links).
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
