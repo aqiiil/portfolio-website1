@@ -25,5 +25,3 @@ This is a simple personal portfolio website created using HTML and CSS. It showc
 2. Open the `index.html` file in your web browser.
 3. Customize the content as needed (text, images, links).
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
